@@ -27,4 +27,5 @@
 - [Sitemap generator](https://github.com/jvidalv/super-simple-sitemap-generator) - Simple sitemap generation tool
 - [Parcel File Copier](https://github.com/jvidalv/parcel-reporter-multiple-static-file-copier) - Parcel plugin for copying static files
 
+
 👨‍💻 Product Engineer, making apps that feel natural to use → [josepvidal.dev](https://josepvidal.dev)
