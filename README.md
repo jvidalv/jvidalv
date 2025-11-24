@@ -2,33 +2,33 @@
 
 **🎮 Games**
 
-[Berrüs](https://berrus.app) - Free to play online RPG
+- [Berrüs](https://berrus.app) - Free to play online RPG
 
 **📊 Web Apps & Analytics**
 
-[React Analytics](https://github.com/jvidalv/react-analytics) - Analytics library for React applications
+- [React Analytics](https://github.com/jvidalv/react-analytics) - Analytics library for React applications
 
 **📐 Templates**
 
-[Vital](https://github.com/jvidalv/vital) - React + TypeScript + Vite starter template
+- [Vital](https://github.com/jvidalv/vital) - React + TypeScript + Vite starter template
 
-[Nextal](https://github.com/jvidalv/nextal) - Next.js starter template
+- [Nextal](https://github.com/jvidalv/nextal) - Next.js starter template
 
 **🧩 Browser Extensions**
 
-[mv-ignited](https://github.com/jvidalv/mv-ignited) - Chrome & Firefox extension
+- [mv-ignited](https://github.com/jvidalv/mv-ignited) - Chrome & Firefox extension
 
 **📱 Mobile Apps**
 
-[Cims](https://github.com/expofast/100cims) - React Native app with offline capabilities
+- [Cims](https://github.com/expofast/100cims) - React Native app with offline capabilities
 
-[Astrale](https://github.com/jvidalv/astrale) - Mobile application
+- [Astrale](https://github.com/jvidalv/astrale) - Mobile application
 
 **🛠️ Tools**
 
-[Sitemap generator](https://github.com/jvidalv/super-simple-sitemap-generator) - Simple sitemap generation tool
+- [Sitemap generator](https://github.com/jvidalv/super-simple-sitemap-generator) - Simple sitemap generation tool
 
-[Parcel File Copier](https://github.com/jvidalv/parcel-reporter-multiple-static-file-copier) - Parcel plugin for copying static files
+- [Parcel File Copier](https://github.com/jvidalv/parcel-reporter-multiple-static-file-copier) - Parcel plugin for copying static files
 
 ---
 
