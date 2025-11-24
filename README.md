@@ -1,7 +1,5 @@
 <a href="https://josepvidal.dev" target="_blank"><img align='center' alt="Josep Vidal" src="https://i.imgur.com/xEDm722.jpg" /></a>
 
----
-
 **🎮 Games**
 
 [Berrüs](https://berrus.app) - Free to play online RPG
