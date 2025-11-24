@@ -11,7 +11,6 @@
 **📐 Templates**
 
 - [Vital](https://github.com/jvidalv/vital) - React + TypeScript + Vite starter template
-
 - [Nextal](https://github.com/jvidalv/nextal) - Next.js starter template
 
 **🧩 Browser Extensions**
@@ -21,13 +20,11 @@
 **📱 Mobile Apps**
 
 - [Cims](https://github.com/expofast/100cims) - React Native app with offline capabilities
-
 - [Astrale](https://github.com/jvidalv/astrale) - Mobile application
 
 **🛠️ Tools**
 
 - [Sitemap generator](https://github.com/jvidalv/super-simple-sitemap-generator) - Simple sitemap generation tool
-
 - [Parcel File Copier](https://github.com/jvidalv/parcel-reporter-multiple-static-file-copier) - Parcel plugin for copying static files
 
 ---
