@@ -2,7 +2,7 @@
 
 **🎮 Games**
 
-- [Berrüs](https://berrus.app) - Free to play online RPG
+- [Berrus](https://berrus.app) - Free to play online RPG
 
 **📊 Web Apps & Analytics**
 
