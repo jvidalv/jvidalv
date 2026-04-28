@@ -19,7 +19,7 @@
 
 **📱 Mobile Apps**
 
-- [Cims](https://github.com/expofast/100cims) - React Native app with offline capabilities
+- [Cims](https://github.com/jvidalv/100cims) - React Native app with offline capabilities
 - [Astrale](https://github.com/jvidalv/astrale) - Mobile application
 
 **🛠️ Tools**
