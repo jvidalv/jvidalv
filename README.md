@@ -4,7 +4,7 @@
 
 - [Berrus](https://berrus.app) - Free to play online RPG made with React & TypeScript
 
-**📊 Web Apps & Analytics**
+**📊 Desktop Apps**
 
 - [platan.ai](https://github.com/jvidalv/platan.ai) - Local & agent first pixel-art and game assets generation
 
