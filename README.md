@@ -2,11 +2,11 @@
 
 **🎮 Games**
 
-- [Berrus](https://berrus.app) - Free to play online RPG
+- [Berrus](https://berrus.app) - Free to play online RPG made with React & TypeScript
 
 **📊 Web Apps & Analytics**
 
-- [React Analytics](https://github.com/jvidalv/react-analytics) - Analytics library for React applications
+- [platan.ai](https://github.com/jvidalv/platan.ai) - Local & agent first pixel-art and game assets generation
 
 **📐 Templates**
 
@@ -19,7 +19,7 @@
 
 **📱 Mobile Apps**
 
-- [Cims](https://github.com/jvidalv/100cims) - React Native app with offline capabilities
+- [Cims](https://github.com/jvidalv/100cims) - Mountanieering React Native app with a thriving community
 - [Astrale](https://github.com/jvidalv/astrale) - Mobile application
 
 **🛠️ Tools**
