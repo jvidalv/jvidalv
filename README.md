@@ -6,7 +6,7 @@
 
 **📊 Desktop Apps**
 
-- [platan.ai](https://github.com/jvidalv/platan.ai) - Local & agent first pixel-art and game assets generation
+- [platan.ai](https://platan.ai) - Local & agent first pixel-art and game assets generation
 
 **📐 Templates**
 
